@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
-    int n,m,a;
-    cin>>n>>m;
-    a=pow(n,m);
-    cout<<a;
+    int a,b,c;
+    cin>>a>>b;
+    c=pow(a,b);
+    cout<<c;
     
     return 0;
 }
